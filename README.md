@@ -1,2 +1,2 @@
 # care-pokemon
-Projeto de um jogo onde o usuário cuida do Pokémon que ele escolher.
+Projeto de um jogo em C# onde o usuário pode cuidar do Pokémon que ele escolher.
