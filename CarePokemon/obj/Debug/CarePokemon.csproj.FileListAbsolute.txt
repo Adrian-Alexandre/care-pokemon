@@ -1,0 +1,14 @@
+E:\Projetos Estudo\CarePokemon\CarePokemon\bin\Debug\CarePokemon.exe.config
+E:\Projetos Estudo\CarePokemon\CarePokemon\bin\Debug\CarePokemon.exe
+E:\Projetos Estudo\CarePokemon\CarePokemon\bin\Debug\CarePokemon.pdb
+E:\Projetos Estudo\CarePokemon\CarePokemon\obj\Debug\CarePokemon.csproj.AssemblyReference.cache
+E:\Projetos Estudo\CarePokemon\CarePokemon\obj\Debug\CarePokemon.csproj.CoreCompileInputs.cache
+E:\Projetos Estudo\CarePokemon\CarePokemon\obj\Debug\CarePokemon.exe
+E:\Projetos Estudo\CarePokemon\CarePokemon\obj\Debug\CarePokemon.pdb
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\bin\Debug\CarePokemon.exe.config
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\bin\Debug\CarePokemon.exe
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\bin\Debug\CarePokemon.pdb
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\obj\Debug\CarePokemon.csproj.AssemblyReference.cache
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\obj\Debug\CarePokemon.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\obj\Debug\CarePokemon.exe
+F:\VisualStudio Projetos\CarePokemon\CarePokemon\obj\Debug\CarePokemon.pdb
